@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yujing Yan</title>
-    <link>http://saltpawpaw.github.io/categories/</link>
+    <link>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/</link>
     <description>Recent content in Categories on Yujing Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Nov 2017 19:50:47 +0530</lastBuildDate>
     
-	<atom:link href="http://saltpawpaw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/saltpawpaw/saltpawpaw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RESEARCH news</title>
-      <link>http://saltpawpaw.github.io/categories/research-news/</link>
+      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/research-news/</link>
       <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
       
-      <guid>http://saltpawpaw.github.io/categories/research-news/</guid>
+      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/research-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resource</title>
-      <link>http://saltpawpaw.github.io/categories/resource/</link>
+      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/resource/</link>
       <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
       
-      <guid>http://saltpawpaw.github.io/categories/resource/</guid>
+      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/resource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STUDY NOTES</title>
-      <link>http://saltpawpaw.github.io/categories/study-notes/</link>
+      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/study-notes/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://saltpawpaw.github.io/categories/study-notes/</guid>
+      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/categories/study-notes/</guid>
       <description></description>
     </item>
     
