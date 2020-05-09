@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yujing Yan</title>
-    <link>https://github.com/saltpawpaw/saltpawpaw.github.io/</link>
+    <link>https://saltpawpaw.github.io/</link>
     <description>Recent content on Yujing Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2020 21:05:33 +0530</lastBuildDate>
     
-	<atom:link href="https://github.com/saltpawpaw/saltpawpaw.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://saltpawpaw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Name of the work 1</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work1/</link>
+      <link>https://saltpawpaw.github.io/post/work1/</link>
       <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work1/</guid>
+      <guid>https://saltpawpaw.github.io/post/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Travel to the new world</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work2/</link>
+      <link>https://saltpawpaw.github.io/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work2/</guid>
+      <guid>https://saltpawpaw.github.io/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Another Awesome Post</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work3/</link>
+      <link>https://saltpawpaw.github.io/post/work3/</link>
       <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work3/</guid>
+      <guid>https://saltpawpaw.github.io/post/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A post without an Image</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work4/</link>
+      <link>https://saltpawpaw.github.io/post/work4/</link>
       <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/post/work4/</guid>
+      <guid>https://saltpawpaw.github.io/post/work4/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/publication/</link>
+      <link>https://saltpawpaw.github.io/publication/</link>
       <pubDate>Thu, 07 May 2020 21:05:33 +0530</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/publication/</guid>
+      <guid>https://saltpawpaw.github.io/publication/</guid>
       <description>Peer-reviewed journal articles (Total citations: 126)  Yan Y, Tang Z. (2019) Protecting endemic seed plants on the Tibetan Plateau under future climate change: migration matters. Journal of Plant Ecology, 6, 962-971. (Selected as cover article). Yan, Y., Li, Y., Wang, W.-J., He, J.-S., Yang, R.-H., Wu, H.-J., Wang, X.-L., Jiao, L., Tang, Z., &amp;amp; Yao, Y.-J. (2017) Range shifts in response to climate change of Ophiocordyceps sinensis, a fungus endemic to the Tibetan Plateau.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/about/</link>
+      <link>https://saltpawpaw.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/about/</guid>
+      <guid>https://saltpawpaw.github.io/about/</guid>
       <description>I am an early career ecologist interested in macroecology and macroevolution.
 I study contemporary changes in . I am especially interested in .
 I received my PhD at the University of Copenhagen. I am currently working
@@ -70,10 +70,10 @@ Education  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tin
     
     <item>
       <title>Research projects</title>
-      <link>https://github.com/saltpawpaw/saltpawpaw.github.io/research/</link>
+      <link>https://saltpawpaw.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/saltpawpaw/saltpawpaw.github.io/research/</guid>
+      <guid>https://saltpawpaw.github.io/research/</guid>
       <description>Evolution of Theaceae: phylogeny, biogeography, and diversification  2016-2020, PhD thesis
  I am an early career ecologist interested in macroecology and macroevolution.
 I study contemporary changes in . I am especially interested in .
